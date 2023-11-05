@@ -1,0 +1,5 @@
+p=int(input("Enter principle: "))
+t=int(input("Enter time: "))
+i=int(input("Enter interest: "))
+r=(i*100)/(p*t)
+print("rate of interest",r)
